@@ -1,0 +1,40 @@
+// ************************************************
+// ******************** MIXINS ********************
+// ************************************************
+
+@mixin heading-big {
+  color: $color-black;
+  font-size: rem(40, 16);
+  font-weight: 900;
+  line-height: lineHeight(44, 40);
+  text-align: center;
+}
+
+@mixin heading-small {
+  color: $color-black;
+  font-size: rem(32, 16);
+  font-weight: 900;
+  line-height: lineHeight(36, 32);
+  text-align: center;
+}
+
+@mixin paragraph-grey {
+  color: $color-grey;
+  font-size: rem(16, 16);
+  font-weight: 500;
+  line-height: lineHeight(26, 16);
+  text-align: center;
+}
+
+@mixin button {
+  background-color: $color-magenta-dark;
+  border-radius: 29px;
+  color: $color-white;
+  display: inline-block;
+  font-size: rem(16, 16);
+  font-weight: 900;
+  line-height: lineHeight(26, 16);
+  padding: rem(16, 16) rem(40, 16);
+  text-align: center;
+  text-decoration: none;
+}

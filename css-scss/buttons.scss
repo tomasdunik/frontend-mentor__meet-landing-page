@@ -1,0 +1,27 @@
+@import "./partials/variables", "./partials/functions", "./partials/mixins";
+
+.button-version-blue {
+  @include button;
+  background-color: $color-blue-dark;
+  margin-top: rem(32, 16);
+}
+
+.button-small-magenta {
+  @include button;
+  margin-top: rem(32, 16);
+  padding: rem(16, 16) rem(29, 16);
+}
+
+.button-version-magenta {
+  @include button;
+  // margin-bottom: rem(75, 16);
+}
+
+.button-version-blue:hover {
+  background-color: #71c0d4;
+}
+
+.button-small-magenta:hover,
+.button-version-magenta:hover {
+  background-color: #b18bdd;
+}

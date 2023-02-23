@@ -1,0 +1,34 @@
+.header {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.header_logo {
+  margin-top: 3rem;
+}
+
+.header_round-img {
+  margin-top: 3rem;
+  width: 20rem;
+}
+
+.header_heading {
+  color: #28283d;
+  font-size: 2.5rem;
+  font-weight: 900;
+  line-height: 1.1;
+  text-align: center;
+  margin-top: 3rem;
+  width: 19.25rem;
+}
+
+.header_paragraph {
+  color: #87879d;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.625;
+  text-align: center;
+  margin-top: 1.5rem;
+  width: 19.0625rem;
+}/*# sourceMappingURL=header.css.map */

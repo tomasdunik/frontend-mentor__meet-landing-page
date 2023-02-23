@@ -1,0 +1,28 @@
+@import "./partials/variables", "./partials/functions", "./partials/mixins";
+
+.header {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.header_logo {
+  margin-top: rem(48, 16);
+}
+
+.header_round-img {
+  margin-top: rem(48, 16);
+  width: rem(320, 16);
+}
+
+.header_heading {
+  @include heading-big;
+  margin-top: rem(48, 16);
+  width: rem(308, 16);
+}
+
+.header_paragraph {
+  @include paragraph-grey;
+  margin-top: rem(24, 16);
+  width: rem(305, 16);
+}

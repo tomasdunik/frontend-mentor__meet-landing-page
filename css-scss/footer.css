@@ -1,0 +1,32 @@
+.footer {
+  align-items: center;
+  background-image: linear-gradient(rgba(77, 150, 169, 0.87) 100%, rgba(0, 0, 0, 0.1) 100%), url(../images/mobile/image-footer.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  padding: 5.625rem 1.5rem 4.5rem 1.5rem;
+  position: absolute;
+  bottom: -24.5rem;
+  width: 20rem;
+}
+
+.footer_heading {
+  color: #28283d;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 1.125;
+  text-align: center;
+  color: #fafafa;
+}
+
+.footer_paragraph {
+  color: #87879d;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.625;
+  text-align: center;
+  color: #fafafa;
+  margin-bottom: 1.875rem;
+  margin-top: 1.25rem;
+}/*# sourceMappingURL=footer.css.map */

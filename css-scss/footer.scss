@@ -1,0 +1,31 @@
+@import "./partials/variables", "./partials/functions", "./partials/mixins";
+
+.footer {
+  align-items: center;
+  background-image: linear-gradient(
+      rgba(77, 150, 169, 0.87) 100%,
+      rgba(0, 0, 0, 0.1) 100%
+    ),
+    url(../images/mobile/image-footer.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  padding: rem(90, 16) rem(24, 16) rem(72, 16) rem(24, 16);
+  position: absolute;
+  // top: rem(-27, 16);
+  bottom: rem(-392, 16);
+  width: rem(320, 16);
+}
+
+.footer_heading {
+  @include heading-small;
+  color: $color-white;
+}
+
+.footer_paragraph {
+  @include paragraph-grey;
+  color: $color-white;
+  margin-bottom: rem(30, 16);
+  margin-top: rem(20, 16);
+}
