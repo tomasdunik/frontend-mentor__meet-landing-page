@@ -1,16 +1,15 @@
 .button-version-blue {
-  background-color: #855fb1;
+  background-color: #4d96a9;
   border-radius: 29px;
   color: #fafafa;
   display: inline-block;
   font-size: 1rem;
   font-weight: 900;
   line-height: 1.625;
+  margin-top: 2rem;
   padding: 1rem 2.5rem;
   text-align: center;
   text-decoration: none;
-  background-color: #4d96a9;
-  margin-top: 2rem;
 }
 
 .button-small-magenta {
@@ -21,11 +20,10 @@
   font-size: 1rem;
   font-weight: 900;
   line-height: 1.625;
-  padding: 1rem 2.5rem;
-  text-align: center;
-  text-decoration: none;
   margin-top: 2rem;
   padding: 1rem 1.8125rem;
+  text-align: center;
+  text-decoration: none;
 }
 
 .button-version-magenta {
@@ -36,10 +34,10 @@
   font-size: 1rem;
   font-weight: 900;
   line-height: 1.625;
+  min-width: 12.0625rem;
   padding: 1rem 2.5rem;
   text-align: center;
   text-decoration: none;
-  min-width: 12.0625rem;
 }
 
 .button-version-blue:hover {
@@ -49,4 +47,4 @@
 .button-small-magenta:hover,
 .button-version-magenta:hover {
   background-color: #b18bdd;
-}/*# sourceMappingURL=buttons.css.map */
+} /*# sourceMappingURL=buttons.css.map */

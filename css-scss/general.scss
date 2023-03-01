@@ -12,9 +12,9 @@ body {
   background-color: $color-white;
   display: grid;
   justify-items: center;
+  overflow-x: hidden;
   place-content: center;
   position: relative;
-  overflow-x: hidden;
 }
 
 // ==================== Additional ====================
