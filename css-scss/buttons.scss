@@ -15,6 +15,7 @@
 .button-version-magenta {
   @include button;
   // margin-bottom: rem(75, 16);
+  min-width: rem(193, 16);
 }
 
 .button-version-blue:hover {
