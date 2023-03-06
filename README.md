@@ -8,11 +8,9 @@ Stránka Frontend Mentor ponúka projekty na vypracovanie, ktoré obsahujú zák
 
 ## 🏗️ Vytvorenie projektu
 
-Projekt som vytvoril približne za 5 hodín a 55 minút (čas od stiahnutia projektu až po jeho finálne publikovanie na stránke Frontend Mentor). Použil som HTML,CSS a Sass. Projekt má dizajn pre pre desktop a mobil. Najviac času mi zabralo vytvorenie responzívneho dizajnu. Prvýkrát som robil responzívny dizajn pre tri zariadenia - desktop, tablet a mobil. Anglické texty som upravil na slovenské.
+Projekt som vytvoril približne za 5 hodín (čas od stiahnutia projektu až po jeho finálne publikovanie na stránke Frontend Mentor). Použil som HTML,CSS a Sass. Projekt má dizajn pre pre desktop, tablet a mobil. Anglické texty som upravil na slovenské.
 
-#### [Odkaz na hotovú stránku](https://tomasdunik.github.io/frontend-mentor-newbie-equalizer-landing-page/)
-
-## 🏫 Čo som sa naučil
+#### [Odkaz na hotovú stránku](https://tomasdunik.github.io/frontend-mentor__meet-landing-page/)
 
 ## 🛠️ Vytvorené s
 
@@ -20,10 +18,6 @@ Projekt som vytvoril približne za 5 hodín a 55 minút (čas od stiahnutia proj
 - CSS
 - Sass
 - Mobile First
-
-## 🧭 Užitočné odkazy
-
-- [CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
 
 ## 📸 Screenshots
 
@@ -41,5 +35,5 @@ Projekt som vytvoril približne za 5 hodín a 55 minút (čas od stiahnutia proj
 
 ## 🔗 Projekty Frontend Mentor
 
-- [Tento konkrétny projekt na stránke Frontend Mentor](https://www.frontendmentor.io/solutions/equalizer-landing-page-WPZNnYpwXg)
+- [Tento konkrétny projekt na stránke Frontend Mentor](https://www.frontendmentor.io/solutions/my-version-meet-landing-page-SRSXdcY85E)
 - [Moje ostatné projekty na stránke Frontend Mentor](https://www.frontendmentor.io/profile/WeekendsProgrammer)
